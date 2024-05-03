@@ -21,7 +21,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 # Basic Python Data Manipulation: 
 
 
-## String Indexing
+## String Indexing -
 
 ### Q1. How to access first character of a given string?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/3604b8ab-0c36-4867-a36a-9b062db2d659)
@@ -43,7 +43,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/c660bc48-bc20-4c96-a304-38845f7f877a)
 
 
-## List Operations
+## List Operations -
 
 ### Q6. How to add multiple elements to the end of a given list?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/1b64be98-5be6-48a4-811d-1fea3ba58cb0)
@@ -62,9 +62,10 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 
 ### Q10. How to remove duplicates from a given string?
-![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/38cd4449-3252-4afc-ad31-c5e33cd522e9)
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/ac9fafc9-256b-4171-aadb-c99f9ed4c233)
 
 
+## Lambda Functions - 
 
 ###
 
