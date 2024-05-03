@@ -26,8 +26,11 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ```
 given_string = "John"
 print("First character of the given string is: ", given_string[0])
-
-#Output-
-First character of the given string is:  J
 ```
+**Output:**
+`First character of the given string is:  J`
+
+
+### Q2. How to access a character at user expected index from user given string?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/84c0559d-2d62-4529-a4ad-b96d948e805e)
 
