@@ -21,4 +21,11 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 ## String Indexing
 
-**Q1. How to access first character of a given string?**
+### Q1. How to access first character of a given string?
+**Code:**
+```
+given_string = "John"
+print("First character of the given string is: ", given_string[0])
+```
+**Result:**
+`First character of the given string is:  J`
