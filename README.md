@@ -62,7 +62,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 
 ### Q10. How to remove duplicates from a given string?
-![Uploading image.png…]()
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/38cd4449-3252-4afc-ad31-c5e33cd522e9)
+
 
 
 ###
