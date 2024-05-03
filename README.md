@@ -26,6 +26,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ```
 given_string = "John"
 print("First character of the given string is: ", given_string[0])
+
+#Output-
+First character of the given string is:  J
 ```
-**Result:**
-`First character of the given string is:  J`
+
