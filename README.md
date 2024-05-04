@@ -14,8 +14,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ## Tools
 
 - Programming Language: Python
-- Integrated Development Environment (IDE): Jupyter Notebook: Used for interactive computing and code documentation.
-
+- Integrated Development Environment (IDE): Jupyter Notebook
 
 
 # Basic Python Data Manipulation: 
