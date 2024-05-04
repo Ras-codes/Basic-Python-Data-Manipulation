@@ -23,7 +23,9 @@ This project is a beginner-friendly guide to mastering essential Python programm
 # ------------------------------------------------------------------------------
 ## String Indexing -
 
-### Q1. How to access first character of a given string?
+
+
+**Q1. How to access first character of a given string?**
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/3604b8ab-0c36-4867-a36a-9b062db2d659)
 
 
@@ -204,6 +206,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 
 ### Q39. Give example of Hybrid Inheritance
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/dd1e803f-c6de-4d7a-b3d7-40e77f069f99)
 
 
 # ------------------------------------------------------------------------------
