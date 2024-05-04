@@ -20,7 +20,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 # Basic Python Data Manipulation: 
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 ## String Indexing -
 
 ### Q1. How to access first character of a given string?
@@ -42,6 +42,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ### Q5. How to check if a specific character exists in a given string?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/c660bc48-bc20-4c96-a304-38845f7f877a)
 
+
+# ------------------------------------------------------------------------------
 
 ## List Operations -
 
@@ -65,6 +67,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/ac9fafc9-256b-4171-aadb-c99f9ed4c233)
 
 
+# ------------------------------------------------------------------------------
+
 ## Lambda Functions - 
 
 ### Q11. How to multiply each value of the given list by 20?
@@ -87,6 +91,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/c77b2a3f-fd0a-420f-bed7-3fd601cc7e45)
 
 
+# ------------------------------------------------------------------------------
+
 ## List Comprehension -
 
 ### Q16. If the length of name is odd,then store the names in Uppercase and if the length of name is even, then store the names in Lowercase
@@ -108,6 +114,8 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ### Q20. How to get a new list with only the unique elements from the given list?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/607691b8-a590-407c-b02f-0a8cf520e88d)
 
+
+# ------------------------------------------------------------------------------
 
 ## Dictionaries -
 
