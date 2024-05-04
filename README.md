@@ -49,6 +49,8 @@ String indexing refers to accessing individual characters of a string by their p
 
 ## List Operations -
 
+List operations refer to various actions that can be performed on lists. A simple new element can be added to the end of a list using the append() method, or multiple elements can be added using extend() or can removed using pop() method. Order of a list can be reversed with reverse() method, startswith() method can be used to check whether a string starts with a specified prefix
+
 ### Q6. How to add multiple elements to the end of a given list?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/1b64be98-5be6-48a4-811d-1fea3ba58cb0)
 
@@ -72,6 +74,8 @@ String indexing refers to accessing individual characters of a string by their p
 # ------------------------------------------------------------------------------
 
 ## Lambda Functions - 
+
+Lambda functions are defined inline functions without a formal name. They are are typically used for small, simple tasks and fit on a single line of code. 
 
 ### Q11. How to multiply each value of the given list by 20?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/8ecc46a7-ecce-4d98-956c-2b33a3ae21b7)
@@ -97,6 +101,8 @@ String indexing refers to accessing individual characters of a string by their p
 
 ## List Comprehension -
 
+List comprehension generates a new list by applying an expression (sum, multiply etc) to each item in an existing iterable (like a list, tuple, or range) and filtering the items based on a condition.
+
 ### Q16. If the length of name is odd,then store the names in Uppercase and if the length of name is even, then store the names in Lowercase
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/d0366d5a-12e3-43cd-ade0-c56850ba1c49)
 
@@ -120,6 +126,8 @@ String indexing refers to accessing individual characters of a string by their p
 # ------------------------------------------------------------------------------
 
 ## Dictionaries -
+
+Dictionaries are collections of key-value pairs, where each key is unique and refers to a respective value. Value associated with a key can be accessed by using square brackets [] with the key inside.
 
 ### Q21. How to access the value at age in the given persons information dictionary?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/eb44c7ce-7313-4dac-a8dd-49d2f0f1a3a3)
@@ -145,6 +153,8 @@ String indexing refers to accessing individual characters of a string by their p
 
 ## Built-in Functions ( len, max, sum, sorted, abs ) -
 
+Built-in functions are pre-defined functions, they have various purposes and can perform common tasks such as mathematical calculations, string manipulation, data type conversion, input/output operations, and more. Some common examples of built-in functions len() for getting the length of a sequence (such as a string, list, or tuple), sum() for calculating the sum of elements in an iterable, sorted() to sort the sequence etc.
+
 ### Q26. How to get the length of a given string?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/0158be36-5f08-45aa-90e0-1972439b2098)
 
@@ -168,6 +178,8 @@ String indexing refers to accessing individual characters of a string by their p
 # ------------------------------------------------------------------------------
 
 ## Looping -
+
+Looping is a technique used to repeat a block of code multiple times. It allows us to automate repetitive tasks and process large amounts of data efficiently. For loop is used when we know in advance how many times we want to repeat the code. While loop repeatedly executes the code block as long as the specific condition remains true.
 
 ### Q31. Print the numbers in given list using for loop
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/1d1bb4c3-68ef-4169-99bf-1b52105f1fb5)
@@ -193,6 +205,8 @@ String indexing refers to accessing individual characters of a string by their p
 
 ## Inheritance -
 
+Inheritance is a concept in object-oriented programming where a new class, called a subclass or child class, can inherit attributes and methods from an existing class, known as a superclass or parent class. Types of inheritance are Single Inheritance, Multiple Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance etc.
+
 ### Q36. Give example of Single inheritance
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/a7f24988-f311-48a7-a3c9-2e0e591cbb1f)
 
@@ -212,6 +226,8 @@ String indexing refers to accessing individual characters of a string by their p
 # ------------------------------------------------------------------------------
 
 ## UDF: Arguments and Parameters -
+
+User-Defined Function (UDF) is a custom function created by a programmer to perform a specific task in a program. Arguments are the values that you provide to a function when you call it. Parameters are variables defined within the function that receive the values passed as arguments.
 
 ### Q40. Give example of Positional arguments
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/b8112007-14a7-4e43-ab2c-cbebc67669d2)
