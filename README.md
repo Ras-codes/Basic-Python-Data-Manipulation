@@ -20,7 +20,7 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 # Basic Python Data Manipulation: 
 
-
+# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## String Indexing -
 
 ### Q1. How to access first character of a given string?
