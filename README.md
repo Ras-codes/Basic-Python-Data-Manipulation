@@ -23,9 +23,9 @@ This project is a beginner-friendly guide to mastering essential Python programm
 # ------------------------------------------------------------------------------
 ## String Indexing -
 
+String indexing refers to accessing individual characters of a string by their position. Each character in a string is assigned a number starting from 0 for the first character, 1 for the second character, and so on, this can be used to retrieve and manipulate individual characters at desired positions in a string easily.
 
-
-**Q1. How to access first character of a given string?**
+### Q1. How to access first character of a given string?
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/3604b8ab-0c36-4867-a36a-9b062db2d659)
 
 
