@@ -163,32 +163,102 @@ This project is a beginner-friendly guide to mastering essential Python programm
 ![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/9036a60f-ed39-4853-beef-926437a0d9fa)
 
 
+# ------------------------------------------------------------------------------
+
 ## Looping -
 
-###
+### Q31. Print the numbers in given list using for loop
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/1d1bb4c3-68ef-4169-99bf-1b52105f1fb5)
 
 
-###
+### Q32. Print numbers 0-5 but break at 3
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/4ab866cd-abd4-4cef-9a42-7e68c5488e10)
 
 
-###
+### Q33. Print 0-5 numbers using while loop
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/c2542f93-587e-4f09-ac17-6cb9ec49f232)
 
 
-###
+### Q34. Floyd's triangle using for loop
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/3fe1b0d2-2fe4-437d-900b-d6e5eecf1680)
 
 
-###
+### Q35. Factorial using while loop
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/03fb8121-a0cf-4f9e-81e9-7f153ef10107)
 
 
-###
+# ------------------------------------------------------------------------------
+
+## Inheritance -
+
+### Q36. Give example of Single inheritance
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/a7f24988-f311-48a7-a3c9-2e0e591cbb1f)
 
 
-###
+### Q37. Give example of Multilevel Inheritance
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/ed728075-cf9a-40d9-9d4d-730fdbdd4555)
 
 
+### Q38. Give example of Multiple Inheritance
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/7f7e7437-005d-4bb6-abd3-4905fd3e582a)
 
 
+### Q39. Give example of Hybrid Inheritance
 
+
+# ------------------------------------------------------------------------------
+
+## UDF: Arguments and Parameters -
+
+### Q40. Give example of Positional arguments
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/b8112007-14a7-4e43-ab2c-cbebc67669d2)
+
+
+### Q41. Give example of Keyword arguments
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/dc94d29e-82a1-43dc-b2bc-5b0a87d80c78)
+
+
+### Q42. Print student info with arguments
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/eb09f81c-2368-482d-8d78-ce9a14406bc5)
+
+
+# ------------------------------------------------------------------------------
+
+## Patterns / Logical questions -
+
+### Q43. How to create a half pyramid pattern?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/49300452-0cac-4045-ab5f-f05486a88055)
+
+
+### Q44. How to create a reverse half pyramid pattern?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/df02cd7a-61e6-4902-b0c4-c2bb6820abe7)
+
+
+### Q45. How to create a diamond pattern?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/efdb794f-9c5b-4717-90c3-2ed793fc91ac)
+
+
+### Q46. Check whether input number is prime number or not
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/be6d3c59-6c9c-47bf-a1f3-060b3fc938b1)
+
+
+### Q47. Check how many prime and composite numbers are there from 1 to 100
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/bafff3d4-322f-436b-9332-0d29d56eeb1f)
+
+
+### Q48. Check if the given string is palindrome or not
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/5e621e67-c1f8-4eeb-ba8f-086e8cee4729)
+
+
+### Q49. Take user input name and check if it is present in the given list
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/ed7439ed-89e4-429d-bec4-9be28d7a8522)
+
+
+### Q50. Create a UDF to get a password from the user.That password should contain: one special character, one alphabet upper case, one alphabet lower case, one digit. The length of the password should not be more than 4.
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/bae6f5c1-1c1f-4383-835e-698d967cca3b)
+
+
+# ------------------------------------------------------------------------------
 
 
 
