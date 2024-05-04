@@ -119,35 +119,51 @@ This project is a beginner-friendly guide to mastering essential Python programm
 
 ## Dictionaries -
 
-###
+### Q21. How to access the value at age in the given persons information dictionary?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/eb44c7ce-7313-4dac-a8dd-49d2f0f1a3a3)
 
 
-###
+### Q22. How to add a new city and its population to the existing dictionary?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/1e8c8420-8bd3-4beb-8e61-a3c15a163dcf)
 
 
-###
+### Q23. How to remove a city from the dictionary?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/23dcc01d-1112-4a0a-a50c-3c72e23f27f2)
 
 
-###
+### Q24. How to check if a key exists in a dictionary?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/75c2e2e0-d4f8-48bc-bd1f-4e4fa3a33330)
 
 
-###
+### Q25. How to convert 1 dictionary into 2 lists?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/424f5607-1d93-4e22-918b-2dbf518c9e20)
 
 
-###
+# ------------------------------------------------------------------------------
+
+## Built-in Functions ( len, max, sum, sorted, abs ) -
+
+### Q26. How to get the length of a given string?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/0158be36-5f08-45aa-90e0-1972439b2098)
 
 
-###
+### Q27. How to get the maximum value in a list of numbers?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/37f54b33-46bb-4c50-8b17-a55f626dcf56)
 
 
-###
+### Q28. How to get the sum all elements in a list of numbers?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/5d9a6d44-5861-45fa-9875-bb64f037170f)
 
 
-###
+### Q29. How to sort a given list of strings in alphabetical order?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/749c7b06-9129-44d2-be75-46d02a7f68fd)
 
 
-###
+### Q30. What is the absolute value of a negative number?
+![image](https://github.com/Ras-codes/Basic-Python-Data-Manipulation/assets/164164852/9036a60f-ed39-4853-beef-926437a0d9fa)
 
+
+## Looping -
 
 ###
 
